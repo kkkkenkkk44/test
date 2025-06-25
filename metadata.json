@@ -12,5 +12,24 @@
     "source": "https://www.crm.org.tw/",
     "summary": "這是暫時內容。",
     "date": "2025-06-25"
+  },
+  {
+    "title": "edition_cnn_com",
+    "filename": "edition_cnn_com.html",
+    "summary": "過去的內容（無 metadata）",
+    "date": "未知"
+  },
+  {
+    "title": "www_bbc_com",
+    "filename": "www_bbc_com.html",
+    "summary": "過去的內容（無 metadata）",
+    "date": "未知"
+  },
+  {
+    "title": "內容來自 https://health.ltn.com.tw/",
+    "filename": "health_ltn_com_tw.html",
+    "source": "https://health.ltn.com.tw/",
+    "summary": "這是暫時內容。",
+    "date": "2025-06-25"
   }
 ]
